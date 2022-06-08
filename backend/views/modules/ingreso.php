@@ -12,3 +12,9 @@
 
 </div>
 
+<?php
+
+    $ingreso = new Ingreso();
+    $ingreso -> ingresoController();
+
+?>
